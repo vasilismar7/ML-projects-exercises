@@ -2,6 +2,7 @@ A kernel for the house-prices competition of Kaggle:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 Outline:
+
 A. Data Preprocessing
   1. Dealing with missing values
   2. Data formatting
