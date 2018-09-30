@@ -14,4 +14,4 @@ B. Models
   1. setting a baseline: Simple Linear Regression
   2. Lasso (GridSearch via 10-fold CV)
   3. Ridge (GridSearch via 10-fold CV)
-  4. Average of Lasso and Ridge
+  4. Ensembling Lasso and Ridge
