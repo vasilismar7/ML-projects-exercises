@@ -1,4 +1,4 @@
-## Machine Learning course programming exercise
+## NKUA - Dept of Informatics & Telecommunications - Machine Learning course - programming exercise
 
 1) Implement the Perceptron algorithm. Use it on the iris dataset to determine whether some class 
    is linearly separable from the rest. (Perceptron_iris.ipynb)
